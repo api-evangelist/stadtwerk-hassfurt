@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stadtwerk Haßfurt is a municipal utility serving the city of Haßfurt in Bavaria, Germany. It provides electricity, water, gas, and related services to residential and commercial customers. The company maintains a public website with information about its services, corporate structure, and contact details, and it offers developer resources such as API documentation and support pages.
+Stadtwerk Hassfurt GmbH is a municipal utility serving the town of Haßfurt in Bavaria, Germany. It provides electricity, gas, water, and heat to residential and business customers, emphasizing reliable, fair, and locally sourced energy. The company also offers digital services such as a customer portal, tariff information, and sustainability projects, and publishes detailed information about its services, tariffs, and regulatory compliance on its website.
 
-**Areas:** Energy · Utilities · Municipal · Germany · Water
+**Areas:** Energy · Utilities · Municipal · Germany · Bavaria · Company
 
 ## Stadtwerk Hassfurt on APIs.io
 
 Everything profiled for Stadtwerk Hassfurt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stadtwerk-hassfurt/](https://apis.io/providers/stadtwerk-hassfurt/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Stadtwerk Hassfurt API](https://apis.io/apis/stadtwerk-hassfurt/stadtwerk-hassfurt-api/) — Provides access to customer portal and utility data, referenced from the developer portal. No public machine‑readable contract was found.
 
 ### Published properties
 
@@ -87,22 +91,23 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://stwhas.de/)
+- [Support](https://stwhas.de/kontaktformulare/)
 - [Privacy policy](https://stwhas.de/datenschutz/)
 
 ## API Evangelist rating
 
-**Kin Score 4.9** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 12.4** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 46.4 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 8.5 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 23.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -117,7 +122,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -129,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.3** — Energy & Utilities
+**Regulatory alignment 8.2** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stadtwerk-hassfurt/](https://apis.io/providers/stadtwerk-hassfurt/).
 
